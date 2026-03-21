@@ -1,4 +1,4 @@
-# Como crear tus propias aplicaciones para LetsUI
+# Como crear tus propias aplicaciones para Lets
 Como primera instancia se debe coniciderar que Lets Vision funciona en un entorno React, esto significa que sus aplicaciones deben estar estrictamente en Javascript/Typescript
 ## Cómo preparar el entorno para la creacion de aplicaciones para LetsUI
 
